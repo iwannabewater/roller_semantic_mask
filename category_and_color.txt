@@ -1,0 +1,33 @@
+labels:
+
+Rolling drum
+Body
+Light
+Rolling drum frame
+Water tank hold
+Grilles
+Cleaning scraper
+Cab
+Roof
+Body panel
+Wheel
+Rolling wheel
+Frameframe
+Hood
+
+color:
+
+Rolling Drum: Red
+Body: Green
+Light: Blue
+Rolling Drum Frame: Yellow
+Water Tank Hold: Cyan
+Grilles: Magenta
+Cleaning Scraper: Dark Red
+Cab: Dark Green
+Roof: Dark Blue
+Body Panel: Olive
+Wheel: Teal
+Rolling Wheel: Purple
+Frame Frame: Silver
+Hood: Gray
